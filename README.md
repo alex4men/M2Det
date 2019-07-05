@@ -7,7 +7,7 @@ Author: Qijie Zhao. Date: 19/01/2019
 
 * [Introduction](#Introduction)
 
-* [Scheduel](#Scheduel)
+* [Schedule](#Schedule)
 
 * [Data Preparation and Installation](#Preparation)
 
@@ -73,7 +73,7 @@ We get the multi-level multi-scale feature, and try to re-allocate a weight for 
 
 <div align=left>
 
-## Scheduel
+## Schedule
 
 <ul>
 <li><input type="checkbox" disabled checked> 13 Nov, 2018 - Release the paper</li>
@@ -102,7 +102,7 @@ git clone https://github.com/qijiezhao/M2Det.git
 sh make.sh
 ```
 
-- Prepare dataset (e.g., VOC, COCO), refer to [sss.pytorch](https://github.com/amdegroot/ssd.pytorch) for detailed instructions.
+- Prepare dataset (e.g., VOC, COCO), refer to [ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) for detailed instructions.
 
 
 ## Demo
